@@ -12,7 +12,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: 'UA-XXXXXXXXXX-1',
+        trackingId: 'UA-173385362-2',
         // this option places the tracking script into the head of the DOM
         head: true
         // other options
@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-facebook-pixel`,
       options: {
-        pixelId: ''
+        pixelId: '471103587065777'
       }
     },
     `gatsby-plugin-eslint`,

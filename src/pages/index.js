@@ -2,13 +2,14 @@ import React from 'react'
 
 import Footer from '../components/footer'
 import SEO from '../components/seo'
+import Sales from '../components/sales'
 
 function IndexPage() {
   return (
     <div className="bg-home">
-      <SEO keywords={[`engenharia`, `mentoria`, ``]} title="Home" />
+      <SEO keywords={[`engenharia`, `mentoria`, ``]} title="Inscrição" />
       <main>
-        <h1>MEC</h1>
+        <Sales />
       </main>
       <Footer />
     </div>

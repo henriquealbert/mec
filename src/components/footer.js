@@ -11,7 +11,7 @@ function Footer() {
           <a
             className="ml-3 text-gray-500"
             title="Instagram"
-            href="https://www.instagram.com/engdayraliz/"
+            href="https://www.instagram.com/mentoriaengenheirosconsultores/"
             target="_blank"
             rel="noreferrer noopener external"
           >
@@ -32,7 +32,7 @@ function Footer() {
           <a
             className="ml-3 text-gray-500"
             title="LinkedIn"
-            href="https://www.linkedin.com/in/engdayraliz/"
+            href="https://www.linkedin.com/company/mentoria-para-engenheiros-consultores/"
             target="_blank"
             rel="noreferrer noopener external"
           >
