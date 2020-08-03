@@ -50,7 +50,7 @@ export default function Bonus() {
               </div>
               <div className="flex-grow">
                 <h2 className="text-yellow-500 text-xl title-font font-bold mb-3">
-                  Como ser autoriade no Linkedin e conquistar bons negócios
+                  Como ser autoridade no Linkedin e conquistar bons negócios
                 </h2>
                 <p className="leading-relaxed text-gray-400 text-base">
                   Aula de LinkedIn com a Eng. Pamela:
