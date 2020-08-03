@@ -43,9 +43,14 @@ export default function Preco() {
             </div>
           </div>
           <div className="flex justify-center mt-10 sm:mt-20">
-            <button className="inline-flex text-white bg-blue-500 border-0 py-4 px-8 focus:outline-none hover:bg-blue-600 rounded text-xl font-bold">
+            <a
+              href="https://pag.ae/7WeChbNcH"
+              target="_blank"
+              rel="noreferrer"
+              className="inline-flex text-white bg-blue-500 border-0 py-4 px-8 focus:outline-none hover:bg-blue-600 rounded text-xl font-bold"
+            >
               QUERO ME INSCREVER AGORA ➡️
-            </button>
+            </a>
           </div>
         </div>
       </section>

@@ -43,9 +43,14 @@ export default function Hero() {
       </BackgroundImage>
 
       <div className="flex justify-center pt-16">
-        <button className="inline-flex text-white bg-blue-500 border-0 mx-4 py-4 px-8 focus:outline-none hover:bg-blue-600 rounded text-xl font-bold">
+        <a
+          href="https://pag.ae/7WeChbNcH"
+          target="_blank"
+          rel="noreferrer"
+          className="inline-flex text-white bg-blue-500 border-0 mx-4 py-4 px-8 focus:outline-none hover:bg-blue-600 rounded text-xl font-bold"
+        >
           QUERO ME INSCREVER AGORA ➡️
-        </button>
+        </a>
       </div>
       <div className="mx-auto pt-12 text-center lg:w-2/3 w-full">
         <h2 className="title-font sm:text-3xl font-bold text-2xl mb-4 font-medium text-gray-900">
