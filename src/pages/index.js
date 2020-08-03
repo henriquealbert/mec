@@ -7,7 +7,7 @@ import Sales from '../components/sales'
 function IndexPage() {
   return (
     <div className="bg-home">
-      <SEO keywords={[`engenharia`, `mentoria`, ``]} title="Inscrição" />
+      <SEO keywords={[`engenharia`, `mentoria`]} title="Inscrição" />
       <main>
         <Sales />
       </main>
