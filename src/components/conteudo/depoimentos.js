@@ -24,6 +24,16 @@ export default function Depoimentos() {
           Veja o depoimento dos nossos mentorados
         </h2>
       </div>
+      <div className="flex flex-row flex-wrap mx-auto justify-center items-center mb-16">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/4D4KWLBAQXk"
+          frameBorder="0"
+          allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+        ></iframe>
+      </div>
       <div className="flex flex-row flex-wrap mx-auto justify-center items-center ">
         <img
           className="px-4 sm:w-3/5 lg:w-1/5 mx-4 shadow-md mb-6 rounded-lg"
