@@ -44,7 +44,7 @@ export default function Hero() {
 
       <div className="flex justify-center pt-16">
         <a
-          href="https://pag.ae/7WeChbNcH"
+          href="https://pag.ae/7WhAC1_64"
           target="_blank"
           rel="noreferrer"
           className="inline-flex text-white bg-blue-500 border-0 mx-4 py-4 px-8 focus:outline-none hover:bg-blue-600 rounded text-xl font-bold"

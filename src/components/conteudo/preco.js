@@ -44,7 +44,7 @@ export default function Preco() {
           </div>
           <div className="flex justify-center mt-10 sm:mt-20">
             <a
-              href="https://pag.ae/7WeChbNcH"
+              href="https://pag.ae/7WhAC1_64"
               target="_blank"
               rel="noreferrer"
               className="inline-flex text-white bg-blue-500 border-0 py-4 px-8 focus:outline-none hover:bg-blue-600 rounded text-xl font-bold"
